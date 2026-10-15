@@ -4,6 +4,10 @@
   Angular · Ionic · Java / Spring Boot · MySQL
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcpenades"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
 ---
 
 ## Sobre mí
@@ -13,7 +17,7 @@ Construyo aplicaciones web y móviles de principio a fin: desde el modelo de dat
 - **Lo que hago mejor:** frontends en Angular conectados a APIs REST en Spring Boot o Node.js.
 - **Dónde me siento más cómodo:** diseñando bases de datos relacionales. MySQL es mi terreno.
 - **En qué estoy ahora:** aprendiendo React construyendo proyectos reales, no solo tutoriales.
-- **Experiencia:** 1-2 años desarrollando en el sector.
+- **Formación y experiencia:** Técnico Superior en DAM, cursando DAW, con prácticas en automatización industrial (PLCs en Arisnova).
 
 ---
 
@@ -55,4 +59,4 @@ Construyo aplicaciones web y móviles de principio a fin: desde el modelo de dat
 
 Estoy abierto a nuevas oportunidades como desarrollador full stack, especialmente en proyectos web y móviles con Angular, Ionic o Spring Boot.
 
-Si tienes un proyecto o una vacante que encaje, escríbeme.
+Si tienes un proyecto o una vacante que encaje, escríbeme por [LinkedIn](https://www.linkedin.com/in/marcpenades).
