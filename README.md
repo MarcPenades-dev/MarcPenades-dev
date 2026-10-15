@@ -55,6 +55,22 @@ Construyo aplicaciones web y móviles de principio a fin: desde el modelo de dat
 
 ---
 
+## Proyecto destacado
+
+### 🎬 [KINO](https://github.com/MarcPenades-dev/kino) · App de gestión de castings
+
+App móvil que conecta a directores con actores: publicación de castings con guion en PDF, candidaturas, callbacks con calendario y chat con notas de voz, sin depender de WhatsApp.
+
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+Proyecto final del CFGS en DAM · [Ver código →](https://github.com/MarcPenades-dev/kino)
+
+---
+
 ## ¿Hablamos?
 
 Estoy abierto a nuevas oportunidades como desarrollador full stack, especialmente en proyectos web y móviles con Angular, Ionic o Spring Boot.
