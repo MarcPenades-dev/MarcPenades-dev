@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcpenades"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="CV-Marc-Penades-Roig.pdf"><img src="https://img.shields.io/badge/Descargar_CV-7C3AED?style=flat&logo=readdotcv&logoColor=white" alt="Descargar CV"></a>
 </p>
 
 ---
